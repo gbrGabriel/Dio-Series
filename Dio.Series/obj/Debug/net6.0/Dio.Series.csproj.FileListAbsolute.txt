@@ -3,3 +3,13 @@ D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMS
 D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
 D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
 D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\refint\Dio.Series.dll
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
+D:\Gabriel\Desktop\DIO.Series\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
